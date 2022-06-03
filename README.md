@@ -25,9 +25,9 @@ This is the team charter for Group 3. As of June 3, 2022, all members have read 
 ##### Ellen Shi
 * Preferred Name: Ellen Shi
 * Pronouns: She / Her
-* Contact Email: 
-* Github Email: 
-* Phone Number:
+* Contact Email: cyan.shi@mail.utoronto.ca
+* Github Email: monotropia@gmail.com
+* Phone Number:6475807252
 
 ### Decision Making Guidelines
 * All members should be involved when decisions are made. 
