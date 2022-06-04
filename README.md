@@ -15,12 +15,12 @@ This is the team charter for Group 3. As of June 3, 2022, all members have read 
 * Github Email: 
 * Phone Number: 647-510-8724
 
-##### Olivia
-* Preferred Name: 
+##### Olivia Yang
+* Preferred Name: Olivia
 * Pronouns: She / Her
-* Contact Email: 
-* Github Email: 
-* Phone Number: 
+* Contact Email: oliviakexin.yang@mail.utoronto.ca
+* Github Email: oliviakexinyang@gmail.com
+* Phone Number: 7788855860
 
 ##### Ellen Shi
 * Preferred Name: Ellen Shi
