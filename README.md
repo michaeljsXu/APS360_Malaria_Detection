@@ -64,6 +64,14 @@ This is the team charter for Group 3. As of June 3, 2022, all members have read 
   * More time will be allocated, and a new team member will assist with the completion of the deadline.
   * Another team member will take over the task.
 
+### Submission
+* The order of submitting documents is:
+ 1. Yug
+ 2. Michael
+ 3. Olivia
+ 4. Ellen
+* This order is based on time zones, Yug is in Toronto time, so he will submit first.
+
 ##### Emergency Situations
 * In the event of health or family emergency situations, we should contact the TA over email and if necessary meet with the TA.
 * If a team member does not contact back within 6 hours, they will be deemed as **busy**.
